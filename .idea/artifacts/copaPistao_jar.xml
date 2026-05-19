@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="copaPistao:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/copaPistao_jar</output-path>
+    <root id="archive" name="copaPistao.jar">
+      <element id="module-output" name="copaPistao" />
+    </root>
+  </artifact>
+</component>
